@@ -1,2 +1,2 @@
-# Clean-Rails-GitFlow-
-A clean workflow x Micorverse 
+# Clean-Rails-GitFlow
+A clean workflow x Microverse 

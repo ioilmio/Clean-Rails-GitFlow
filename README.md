@@ -1,3 +1,4 @@
+
  # Clean Rails GitFlow
  
  
@@ -21,3 +22,4 @@
  ### 9. ```git add .```
  ### 10. ```git commit -m "your commit message"```
  ### 11. ``` git push --set-upstream origin feature```
+
